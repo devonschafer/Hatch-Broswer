@@ -1,6 +1,8 @@
 # Hatch-Broswer
 A different Python based browser.
 
+VERSION: Alpha 0.1 "expect nothing"
+
 Brief Windows Instruction:
 --install python3--
 winget install Python.Python.3.14
