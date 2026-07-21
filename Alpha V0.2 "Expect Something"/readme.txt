@@ -2,7 +2,9 @@ Alpha V0.2
 Hatch-Browser "Expect Something"
 
 A Python based SSH browser.
-run: python3 main.py
+
+After downloading the code, all the files should already be in a directory (folder).
+To launch the browser run: python3 main.py
 
 Changes:
 1. re-organized code
